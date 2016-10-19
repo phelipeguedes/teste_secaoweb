@@ -33,7 +33,7 @@
 			<div class="form-group">
 				<label class="control-label col-sm-1" for="nome">Usuário(a):</label>
 				<div class="col-sm-3">
-					<input type="text" name="q" class="form-control" id="nome" placeholder="Procurar no github" required />	
+					<input type="text" name="q" class="form-control" id="nome" placeholder="Procurar no GitHub" required />	
 				</div>				
 			</div>			
 			<div class="form-group">
